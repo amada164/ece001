@@ -1,0 +1,51 @@
+<html>
+<head>
+  <title> SecondBAGE</title>
+  </head>
+  <style>
+  table, th, td {
+    border: 1px solid black;
+  }
+  </style>
+  <body>
+  <ul>
+
+    <li><a href="index.html">coronavirus</a></li>
+    <li><a href="seccond">prevention</a></li>
+    <li><a href="third"> symptoms</a></li>
+    <li><a href="four">What to Do If You Are Sick</a></li>
+
+  </ul>
+<h1>to prevent infection and to slow transmission of COVID-19, do the following</h1>
+<li>Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub</li>
+<li>Maintain at least 1 metre distance between you and people coughing or sneezing. </li>
+<li>Avoid touching your face. </li>
+<li>Cover your mouth and nose when coughing or sneezing
+</li>
+
+    <img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/1105A/production/_112222796_index_how_to_do_masks.png" alt="big data" width="500" height="400">
+<p>this table wille xplain the number of the injured</p>
+    <table style="width:70%">
+      <tr>
+        <th>country</th>
+        <th>the number</th>
+
+      </tr>
+      <tr>
+        <td>America</td>
+        <td>1000000</td>
+
+      </tr>
+      <tr>
+        <td>England</td>
+        <td>50000. </td>
+
+      </tr>
+      <tr>
+        <td>spain</td>
+        <td>170000.</td>
+
+      </tr>
+    </table>
+    </body>
+      </html>>
